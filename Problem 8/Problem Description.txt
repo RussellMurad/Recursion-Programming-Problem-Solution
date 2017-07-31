@@ -1,0 +1,10 @@
+Write a recursive program to determine whether a given integer is prime or not.
+
+Input:
+49
+999983
+1
+Output:
+not prime
+prime
+not prime
