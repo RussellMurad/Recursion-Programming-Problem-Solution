@@ -1,0 +1,6 @@
+Write a recursive function that finds the gcd of two non-negative integers.
+
+Input:
+25 8895
+Output:
+5
